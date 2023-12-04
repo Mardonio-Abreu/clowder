@@ -1,0 +1,15 @@
+{
+  "name": "clowder",
+  "version": "1.0.0",
+  "description": "Cats data (pictures, weight, size, vaccines, etc.)",
+  "main": "nodemon index.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
